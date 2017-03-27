@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning Engineer Nanodegree
 ## Introduction and Foundations
 ## Project: Titanic Survival Exploration
@@ -51,3 +52,8 @@ The dataset used in this project is included as `titanic_data.csv`. This dataset
 
 **Target Variable**
 - `survival` : Survival (0 = No; 1 = Yes)
+||||||| merged common ancestors
+=======
+# MachineLearningNanodegree
+Udacity Machine Learning Nano-degree 
+>>>>>>> origin/master
