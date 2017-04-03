@@ -25,6 +25,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 ### Code
 
 Template code is provided in the notebook file. 
+
 ### Run
 
 In a terminal or command window, navigate to the top-level project directory `...\..\` (that contains this README) and run one of the following commands:
@@ -36,12 +37,9 @@ or
 ```bash
 ipython notebook XXX.ipynb
 ```
-
-This will open the Jupyter Notebook software and project file in your web browser.
-
-### Data
-
-The dataset used in this project is included as `titanic_data.csv`. This dataset is provided by Udacity and contains the following attributes:
+### Files
+ - The `XXXXXX.ipynb` notebook file with all questions answered and all code cells executed and displaying output.
+ - An **HTML** export of the project notebook with the name **report.html**. This file *must* be present for your project to be evaluated.
 
 
 ||||||| merged common ancestors
